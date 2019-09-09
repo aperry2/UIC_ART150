@@ -6,7 +6,7 @@ int lineCount = 50;
 void setup() {
   size(1600, 900);
   background(0);
-  frameRate(60);
+  frameRate(60); // this function changes the number of times the draw() function is called per second
 }
 
 void draw() {
