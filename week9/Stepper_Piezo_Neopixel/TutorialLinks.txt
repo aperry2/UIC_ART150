@@ -7,6 +7,9 @@ https://programmingelectronics.com/an-easy-way-to-make-noise-with-arduino-using-
 Arrays:
 https://www.arduino.cc/en/Tutorial/Arrays
 
+Piezo Melodies:
+https://www.arduino.cc/en/Tutorial/toneMelody
+
 Adafruit:
 https://www.adafruit.com/
 
