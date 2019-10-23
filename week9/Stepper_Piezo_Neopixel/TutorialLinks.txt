@@ -1,0 +1,5 @@
+Using the Stepper Motor in the Kit:
+https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/
+
+Using the Piezo Speaker and tone() function:
+https://programmingelectronics.com/an-easy-way-to-make-noise-with-arduino-using-tone/
