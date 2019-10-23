@@ -3,3 +3,15 @@ https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/
 
 Using the Piezo Speaker and tone() function:
 https://programmingelectronics.com/an-easy-way-to-make-noise-with-arduino-using-tone/
+
+Arrays:
+https://www.arduino.cc/en/Tutorial/Arrays
+
+Adafruit:
+https://www.adafruit.com/
+
+Sparkfun:
+https://www.sparkfun.com/
+
+MicroCenter:
+https://www.microcenter.com/site/stores/chicago.aspx
